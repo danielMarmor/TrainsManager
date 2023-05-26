@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrainsManager", "TrainsManager.csproj", "{8B499FF1-4AE7-4EB9-A725-206977ACB37A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "..\Students\Students.csproj", "{307CB715-9346-408A-813E-3049B5977D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processor", "..\Processor\Processor.csproj", "{3EC8BFD3-D100-40A9-986F-160654A0960F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B499FF1-4AE7-4EB9-A725-206977ACB37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B499FF1-4AE7-4EB9-A725-206977ACB37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B499FF1-4AE7-4EB9-A725-206977ACB37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B499FF1-4AE7-4EB9-A725-206977ACB37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307CB715-9346-408A-813E-3049B5977D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307CB715-9346-408A-813E-3049B5977D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307CB715-9346-408A-813E-3049B5977D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307CB715-9346-408A-813E-3049B5977D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC8BFD3-D100-40A9-986F-160654A0960F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC8BFD3-D100-40A9-986F-160654A0960F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC8BFD3-D100-40A9-986F-160654A0960F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC8BFD3-D100-40A9-986F-160654A0960F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C32999D2-34CC-4D1B-9DFE-2BBCD642CBAE}
+	EndGlobalSection
+EndGlobal
